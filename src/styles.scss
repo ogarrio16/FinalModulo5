@@ -1,0 +1,33 @@
+$azul: #0b5ed7;
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  padding: 20px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+
+  h2 {
+    color: $azul;
+    margin: 0 0 8px 0;
+  }
+
+  img {
+    max-width: 200px;
+    display: block;
+    margin-top: 8px;
+  }
+
+  pre {
+    background: #fafafa;
+    border: 1px solid #eee;
+    padding: 10px;
+    overflow-x: auto;
+  }
+}

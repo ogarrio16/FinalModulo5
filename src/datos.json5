@@ -1,0 +1,6 @@
+{
+  // JSON5 permite comentarios
+  author: 'Francisco',
+  
+  debug: true
+}
